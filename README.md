@@ -16,9 +16,10 @@ Dataset Link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
 The dataset is from Kaggle which used the TMDB movie database and the dataset consists of two separate files, one is for movie data and the other is for credit data.
 
 ### Tools & Technologies
-1. VS Code
-2. Jupyter Notebook
-3. Streamlit
+1. Python
+2. VS Code
+3. Jupyter Notebook
+4. Streamlit
 
 ### How to run the project?
 1. Clone the repository to your local machine
